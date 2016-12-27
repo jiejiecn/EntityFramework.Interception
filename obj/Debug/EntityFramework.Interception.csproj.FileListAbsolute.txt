@@ -1,0 +1,9 @@
+D:\GitHub\EntityFramework.Interception\bin\Debug\EntityFramework.Interception.dll.config
+D:\GitHub\EntityFramework.Interception\bin\Debug\EntityFramework.Interception.dll
+D:\GitHub\EntityFramework.Interception\bin\Debug\EntityFramework.Interception.pdb
+D:\GitHub\EntityFramework.Interception\bin\Debug\EntityFramework.dll
+D:\GitHub\EntityFramework.Interception\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\EntityFramework.Interception\bin\Debug\EntityFramework.xml
+D:\GitHub\EntityFramework.Interception\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\EntityFramework.Interception\obj\Debug\EntityFramework.Interception.dll
+D:\GitHub\EntityFramework.Interception\obj\Debug\EntityFramework.Interception.pdb
